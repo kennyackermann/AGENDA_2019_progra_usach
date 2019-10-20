@@ -1,4 +1,4 @@
-
+#@kennyackermann
 dia = abs ( int ( input ( " ingrese el numero del dia: " ))) # aqui se ingresa el numero del dia
 mes = abs ( int ( input ( " ingrese el numero del mes: " ))) # aqui se ingresa el numero del mes
 centuria = abs ( int ( input ( " ingrese los primeros 2 numeros del año: " ))) # aqui se pondrán los 2 primeros numeros del año
